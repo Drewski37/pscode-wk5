@@ -1,0 +1,35 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+(Define integer A
+Define integer B
+(a+b)=c
+Print C)
+
+// Exercise 2: Check if a Number is Even or Odd {BOOLEAN code?}
+
+(Define integer A
+(A % 2 =/= 0)=FALSE
+IF FALSE Print "Odd"
+IF TRUE Print "Even")
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(Define integer A
+Define integer B
+Define integer C
+Define integer D
+Define integer E
+(A+B+C+D+E)=AVG
+Compare (A,B,C,D,E)>(A,B,C,D,E) show Lowest Compare (A,B,C,D,E)>(A,B,C,D,E) show Highest
+Print AVG
+Print Lowest
+Print Highest)
+
+-- END --
